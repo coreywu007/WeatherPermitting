@@ -6,7 +6,6 @@ var mongoose = require("mongoose");
 var schedule = require('node-schedule');
 
 
-
 // Twilio Account
 var accountSid = ''; // Your Account SID from www.twilio.com/console
 var authToken = '';   // Your Auth Token from www.twilio.com/console
